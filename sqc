@@ -1,0 +1,15 @@
+#include <stdio.h>
+ int square(int a)
+{
+return a*a;
+}
+int main()
+{
+int result=square(5);
+printf("Hi anu\n");
+printf("square is:%d",result);
+}
+Hi anu
+square is:25
+
+=== Code Execution Successful ===
